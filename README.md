@@ -1501,4 +1501,5 @@ This project is intended primarily for educational and demonstration purposes.
 
 If publishing publicly, add an appropriate license such as MIT and review the terms of the external APIs and MCP packages used by the project.
 #   C h a t _ A P P  
+ #   C h a t _ A P P  
  
